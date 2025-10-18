@@ -39,8 +39,8 @@ See the [Kaggle Notebook](https://www.kaggle.com/code/ahmedmgelwan/covid-19-xray
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ahmedmgelwan/covid19-xray-classifier.git
-   cd covid19-xray-classifier
+   git clone https://github.com/ahmedmgelwan/covid-19_xray_classifier.git
+   covid-19_xray_classifier
    ```
 
 2. Install dependencies:
